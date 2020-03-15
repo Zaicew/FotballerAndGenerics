@@ -1,0 +1,7 @@
+C:\Users\Zaicew\source\repos\FootballerAndGenerics\FootballerAndGenerics\bin\Debug\FootballerAndGenerics.exe.config
+C:\Users\Zaicew\source\repos\FootballerAndGenerics\FootballerAndGenerics\bin\Debug\FootballerAndGenerics.exe
+C:\Users\Zaicew\source\repos\FootballerAndGenerics\FootballerAndGenerics\bin\Debug\FootballerAndGenerics.pdb
+C:\Users\Zaicew\source\repos\FootballerAndGenerics\FootballerAndGenerics\obj\Debug\FootballerAndGenerics.csprojAssemblyReference.cache
+C:\Users\Zaicew\source\repos\FootballerAndGenerics\FootballerAndGenerics\obj\Debug\FootballerAndGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Zaicew\source\repos\FootballerAndGenerics\FootballerAndGenerics\obj\Debug\FootballerAndGenerics.exe
+C:\Users\Zaicew\source\repos\FootballerAndGenerics\FootballerAndGenerics\obj\Debug\FootballerAndGenerics.pdb
